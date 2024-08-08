@@ -1,0 +1,46 @@
+h1{
+    color: rgb(143, 185, 29);
+}
+.box1{
+    text-align: center;
+    margin-top: 40px;
+   
+  
+    /* width: 300px; */
+   
+ 
+}
+body{
+    background-image: url(alison-wang-mou0S7ViElQ-unsplash.jpg);
+    background-size: contain;
+    /* margin-top: 250px; */
+}
+.inbox{
+    margin-top: 100px;
+    background-color: rgb(180, 114, 22);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+}
+#aa{
+    border: 2px solid gold;
+    padding: 9px 6px;
+    color: orangered;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#checknumber{
+    border: 2px solid gold;
+    padding: 8px 10px;
+}
+#result{
+    color: lavenderblush;
+    font-size: 20px;
+}
+#score{
+    color: lavenderblush;
+    font-size: 20px;
+}
